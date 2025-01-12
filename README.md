@@ -9,7 +9,6 @@ This project demonstrates the implementation of a distributed Java EE applicatio
 To practice and implement a distributed JEE application by leveraging **EJB3**, **JPA**, and **WildFly**. The application performs CRUD operations on student data stored in a MySQL database.
 ![image](https://github.com/user-attachments/assets/8b5ea9c0-bdb5-41cf-bf75-d5774724fb44)
 ![image](https://github.com/user-attachments/assets/8ce12aba-3028-4aec-8231-0c6870b8ef67)
-![image](https://github.com/user-attachments/assets/5e762957-d8cf-4d5e-add1-4cb116f97044)
 
 ---
 
@@ -59,6 +58,7 @@ src/
 
 
 ```
+![image](https://github.com/user-attachments/assets/5e762957-d8cf-4d5e-add1-4cb116f97044)
 
 ## ⚙️ Setup & Installation
 Prerequisites :
