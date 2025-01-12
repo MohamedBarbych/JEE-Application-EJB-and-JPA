@@ -7,6 +7,7 @@ This project demonstrates the implementation of a distributed Java EE applicatio
 ## 🎯 Objective
 
 To practice and implement a distributed JEE application by leveraging **EJB3**, **JPA**, and **WildFly**. The application performs CRUD operations on student data stored in a MySQL database.
+![image](https://github.com/user-attachments/assets/8b5ea9c0-bdb5-41cf-bf75-d5774724fb44)
 
 ---
 
