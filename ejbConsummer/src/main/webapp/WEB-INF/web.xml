@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee
+                             https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd"
+         version="5.0">
+    <display-name>EjbConsumer</display-name>
+
+    <servlet>
+        <servlet-name>AddEtudiantServlet</servlet-name>
+        <servlet-class>ma.fstt.ejbconsummer.servlets.AddEtudiantServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AddEtudiantServlet</servlet-name>
+        <url-pattern>/addEtudiant</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DeleteEtudiantServlet</servlet-name>
+        <servlet-class>ma.fstt.ejbconsummer.servlets.DeleteEtudiantServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DeleteEtudiantServlet</servlet-name>
+        <url-pattern>/deleteEtudiant</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>UpdateEtudiantServlet</servlet-name>
+        <servlet-class>ma.fstt.ejbconsummer.servlets.UpdateEtudiantServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UpdateEtudiantServlet</servlet-name>
+        <url-pattern>/updateEtudiant</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ListEtudiantsServlet</servlet-name>
+        <servlet-class>ma.fstt.ejbconsummer.servlets.ListEtudiantsServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ListEtudiantsServlet</servlet-name>
+        <url-pattern>/listEtudiants</url-pattern>
+    </servlet-mapping>
+
+</web-app>
