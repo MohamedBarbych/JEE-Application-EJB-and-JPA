@@ -106,5 +106,5 @@ Access the Application:
 
 Open your browser and navigate to the web application:
 ```bash
-http://localhost:8080/your-webapp-context
+http://localhost:8080/webapp-context
 ```
