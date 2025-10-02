@@ -71,8 +71,8 @@ Prerequisites :
 
 - **Clone the Repository:**
 ```bash
-git clone [https://github.com/YourUsername/Distributed-JEE-Application]([https://github.com/MohamedBarbych/JEE-Application-EJB-and-JPA.git](https://github.com/YourUsername/Distributed-JEE-Application))
-cd Distributed-JEE-Application
+git clone https://github.com/MohamedBarbych/JEE-Application-EJB-and-JPA
+cd JEE-Application-EJB-and-JPA
 Set Up the Database:
 ```
 
